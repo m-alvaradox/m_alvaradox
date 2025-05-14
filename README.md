@@ -8,7 +8,7 @@ ECU | 23' 🚀🎹🎸🚴🏊 #MetaAlfa 🔥
 ¡Hola!, mi nombre es Mario y soy estudiante de Ingeniería en Sistemas Computacionales de la ESPOL. Siempre con disposición de recibir retroalimentación y aprender diariamente.
 
 <p><a target="_blank" href="https://www.linkedin.com/in/malvaradox/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/m_alvaradox/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="https://www.instagram.com/m_alvaradox/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a> </p>
 
 ## Lenguajes y herramientas que he utilizado:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,python,java,mysql,postgresql,linux,r)](https://skillicons.dev)
