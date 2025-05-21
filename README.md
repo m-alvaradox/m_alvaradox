@@ -11,7 +11,7 @@ ECU | 23' 🚀🎹🎸🚴🏊 #MetaAlfa 🔥
 <a target="_blank" href="https://www.instagram.com/m_alvaradox/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a> </p>
 
 ## Lenguajes y herramientas que he utilizado:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,python,java,mysql,postgresql,linux,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,python,java,cpp,mysql,postgresql,linux,r,azure,gcp)](https://skillicons.dev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-alvaradox&layout=compact&theme=radical)
 
