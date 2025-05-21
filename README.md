@@ -1,4 +1,4 @@
-# Mario Alvarado (m_alvaradox)
+# Mario Alvarado
 
 Road to Computer Science 👨‍💻🐢
 ECU | 23' 🚀🎹🎸🚴🏊 #MetaAlfa 🔥
@@ -17,9 +17,9 @@ ECU | 23' 🚀🎹🎸🚴🏊 #MetaAlfa 🔥
 
 ## ¿Quién soy yo? 🤔
 
-* **Mi nombre es:** Mario Alvarado
+* **Mi nombre es:** Mario
 * **Ocupo el cargo de:** Estudiante
-* **Resido en:** Guayaquil, Ecuador
+* **Resido en:** Guayaquil, Ecuador 🇪🇨
 
 ## 🚀 Mis Proyectos
 
