@@ -36,7 +36,7 @@ PickOCR es una herramienta web que permite escanear productos desde imágenes o 
 
 ### 2. [Format Excel](https://github.com/m-alvaradox/FormatExcel) 📄
 
-Aplicación web que permite subir archivos de Excel y aplicar formatos y filtros automáticamente.Realiza validaciones, elimina filas vacías, filtra por ítems definidos, añade columnas condicionales, y genera un nuevo archivo listo para su uso.
+Aplicación web que permite subir archivos de Excel y aplicar formatos y filtros automáticamente. Realiza validaciones, elimina filas vacías, filtra por ítems definidos, añade columnas condicionales, y genera un nuevo archivo listo para su uso.
 
 - **Tecnologías**:
   `Python`, `Flask`, `Pandas`, `HTML`, `CSS`, `JavaScript`
