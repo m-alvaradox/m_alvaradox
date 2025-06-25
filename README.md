@@ -1,7 +1,6 @@
 # Bienvenido a mi Perfil
 
 Road to Computer Science 👨‍💻🐢
-ECU | 23'
 
 ¡Hola!, mi nombre es Mario y soy estudiante de Ingeniería en Sistemas Computacionales de la ESPOL. Siempre con disposición de recibir retroalimentación y aprender diariamente.
 
